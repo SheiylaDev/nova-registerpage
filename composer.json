@@ -1,6 +1,6 @@
 {
     "name": "acvxqs/nova-registerpage",
-    "description": "A basic registration page for Laravel Nova 3",
+    "description": "A basic registration page for Laravel Nova 4",
     "type": "library",
     "keywords": [
         "laravel",
@@ -32,7 +32,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.3",
-        "laravel/nova": "^3.0"
+        "laravel/nova": "^4.0"
     },
     "config": {
         "sort-packages": true
